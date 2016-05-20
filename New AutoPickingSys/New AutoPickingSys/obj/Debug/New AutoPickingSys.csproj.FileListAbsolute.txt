@@ -1,0 +1,9 @@
+c:\users\miwa\documents\visual studio 2013\Projects\New AutoPickingSys\New AutoPickingSys\bin\Debug\New AutoPickingSys.exe.config
+c:\users\miwa\documents\visual studio 2013\Projects\New AutoPickingSys\New AutoPickingSys\bin\Debug\New AutoPickingSys.exe
+c:\users\miwa\documents\visual studio 2013\Projects\New AutoPickingSys\New AutoPickingSys\bin\Debug\New AutoPickingSys.pdb
+c:\users\miwa\documents\visual studio 2013\Projects\New AutoPickingSys\New AutoPickingSys\obj\Debug\New AutoPickingSys.csprojResolveAssemblyReference.cache
+c:\users\miwa\documents\visual studio 2013\Projects\New AutoPickingSys\New AutoPickingSys\obj\Debug\New_AutoPickingSys.Form1.resources
+c:\users\miwa\documents\visual studio 2013\Projects\New AutoPickingSys\New AutoPickingSys\obj\Debug\New_AutoPickingSys.Properties.Resources.resources
+c:\users\miwa\documents\visual studio 2013\Projects\New AutoPickingSys\New AutoPickingSys\obj\Debug\New AutoPickingSys.csproj.GenerateResource.Cache
+c:\users\miwa\documents\visual studio 2013\Projects\New AutoPickingSys\New AutoPickingSys\obj\Debug\New AutoPickingSys.exe
+c:\users\miwa\documents\visual studio 2013\Projects\New AutoPickingSys\New AutoPickingSys\obj\Debug\New AutoPickingSys.pdb
